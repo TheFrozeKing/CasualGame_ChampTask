@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCarItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CarItemData>
+    <Name>Propeller</Name>
+    <Speed>5</Speed>
+  </CarItemData>
+  <CarItemData>
+    <Name>Wheel</Name>
+    <Speed>5</Speed>
+  </CarItemData>
+  <CarItemData>
+    <Name>Spiked Wheel</Name>
+    <Speed>5</Speed>
+  </CarItemData>
+  <CarItemData>
+    <Name>Wings</Name>
+    <Speed>5</Speed>
+  </CarItemData>
+  <CarItemData>
+    <Name>Rocket</Name>
+    <Speed>5</Speed>
+  </CarItemData>
+</ArrayOfCarItemData>

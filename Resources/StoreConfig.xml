@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfStoreItemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StoreItemData>
+    <Cost>0</Cost>
+    <Reward>150</Reward>
+  </StoreItemData>
+  <StoreItemData>
+    <Cost>0</Cost>
+    <Reward>450</Reward>
+  </StoreItemData>
+  <StoreItemData>
+    <Cost>0</Cost>
+    <Reward>1000</Reward>
+  </StoreItemData>
+  <StoreItemData>
+    <Cost>0</Cost>
+    <Reward>100</Reward>
+  </StoreItemData>
+  <StoreItemData>
+    <Cost>0</Cost>
+    <Reward>100</Reward>
+  </StoreItemData>
+  <StoreItemData>
+    <Cost>0</Cost>
+    <Reward>150</Reward>
+  </StoreItemData>
+</ArrayOfStoreItemData>
